@@ -14,6 +14,7 @@ You can use the My Pal Scout/Violet by plugging in one to four AT switches. The 
 You can build the My Pal Scout/Violet by following the Assembly Guide attached. Follow the “How to prep your 3.5mm headphone jack” tutorial first to prepare for this toy adaption.
 
 ## Bill of Materials
+Links given in BOM under documentation
 
 1 x LeapFrog My Pal Scout or Violet Toy (https://www.amazon.ca/LeapFrog-Pal-Violet-English-Version/dp/B00D2KZ1ZY?th=1)
 
